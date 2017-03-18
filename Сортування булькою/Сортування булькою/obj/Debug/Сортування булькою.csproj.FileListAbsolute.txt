@@ -1,0 +1,9 @@
+c:\users\1\documents\visual studio 2015\Projects\Сортування булькою\Сортування булькою\bin\Debug\Сортування булькою.exe.config
+c:\users\1\documents\visual studio 2015\Projects\Сортування булькою\Сортування булькою\obj\Debug\Сортування булькою.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\Сортування булькою\Сортування булькою\bin\Debug\Сортування булькою.exe
+c:\users\1\documents\visual studio 2015\Projects\Сортування булькою\Сортування булькою\bin\Debug\Сортування булькою.pdb
+c:\users\1\documents\visual studio 2015\Projects\Сортування булькою\Сортування булькою\obj\Debug\Сортування булькою.exe
+c:\users\1\documents\visual studio 2015\Projects\Сортування булькою\Сортування булькою\obj\Debug\Сортування булькою.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning Algorithms\Сортування булькою\Сортування булькою\bin\Debug\Сортування булькою.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning Algorithms\Сортування булькою\Сортування булькою\obj\Debug\Сортування булькою.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning Algorithms\Сортування булькою\Сортування булькою\obj\Debug\Сортування булькою.pdb

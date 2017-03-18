@@ -1,0 +1,6 @@
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning Algorithms\Selection Sort\bin\Debug\Selection Sort.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning Algorithms\Selection Sort\bin\Debug\Selection Sort.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning Algorithms\Selection Sort\bin\Debug\Selection Sort.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning Algorithms\Selection Sort\obj\Debug\Selection Sort.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning Algorithms\Selection Sort\obj\Debug\Selection Sort.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning Algorithms\Selection Sort\obj\Debug\Selection Sort.pdb

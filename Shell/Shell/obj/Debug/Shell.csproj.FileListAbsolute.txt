@@ -1,0 +1,6 @@
+c:\users\1\documents\visual studio 2015\Projects\Shell\Shell\bin\Debug\Shell.exe.config
+c:\users\1\documents\visual studio 2015\Projects\Shell\Shell\bin\Debug\Shell.exe
+c:\users\1\documents\visual studio 2015\Projects\Shell\Shell\bin\Debug\Shell.pdb
+c:\users\1\documents\visual studio 2015\Projects\Shell\Shell\obj\Debug\Shell.csprojResolveAssemblyReference.cache
+c:\users\1\documents\visual studio 2015\Projects\Shell\Shell\obj\Debug\Shell.exe
+c:\users\1\documents\visual studio 2015\Projects\Shell\Shell\obj\Debug\Shell.pdb

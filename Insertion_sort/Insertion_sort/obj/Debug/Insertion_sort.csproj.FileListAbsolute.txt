@@ -1,0 +1,12 @@
+c:\users\1\documents\visual studio 2015\Projects\Insertion_sort\Insertion_sort\bin\Debug\Insertion_sort.exe.config
+c:\users\1\documents\visual studio 2015\Projects\Insertion_sort\Insertion_sort\bin\Debug\Insertion_sort.exe
+c:\users\1\documents\visual studio 2015\Projects\Insertion_sort\Insertion_sort\bin\Debug\Insertion_sort.pdb
+c:\users\1\documents\visual studio 2015\Projects\Insertion_sort\Insertion_sort\obj\Debug\Insertion_sort.exe
+c:\users\1\documents\visual studio 2015\Projects\Insertion_sort\Insertion_sort\obj\Debug\Insertion_sort.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Insertion_sort\Insertion_sort\obj\Debug\Insertion_sort.csprojResolveAssemblyReference.cache
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning Algorithms\Insertion_sort\Insertion_sort\bin\Debug\Insertion_sort.exe.config
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning Algorithms\Insertion_sort\Insertion_sort\obj\Debug\Insertion_sort.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning Algorithms\Insertion_sort\Insertion_sort\obj\Debug\Insertion_sort.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning Algorithms\Insertion_sort\Insertion_sort\bin\Debug\Insertion_sort.exe
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning Algorithms\Insertion_sort\Insertion_sort\bin\Debug\Insertion_sort.pdb
+C:\Users\1\Documents\Visual Studio 2015\Projects\Learning Algorithms\Insertion_sort\Insertion_sort\obj\Debug\Insertion_sort.csprojResolveAssemblyReference.cache
